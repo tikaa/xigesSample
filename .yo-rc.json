@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-module": {
+    "promptValues": {
+      "githubName": "tikaa",
+      "authorName": "awanthika senarath",
+      "authorEmail": "wnthksnrth@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}

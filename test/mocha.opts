@@ -1,0 +1,7 @@
+--colors
+--reporter spec
+--ui bdd
+--timeout 2000
+
+test/**/test.js generators/**/*.spec.js
+
